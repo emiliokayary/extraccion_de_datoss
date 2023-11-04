@@ -1,0 +1,4 @@
+name,code,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Cuba,CuB,North America,Caribbean,110861.0,1902.0,11201000,76.2,17843.0,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413.0,Cu
+Dominican Republic,DOM,North America,Caribbean,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+Puerto Rico,PRI,North America,Caribbean,8875.0,,3869000,75.6,34100.0,32100.0,Puerto Rico,Commonwealth of the uS,George W. Bush,2919.0,PR
